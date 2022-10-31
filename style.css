@@ -1,0 +1,65 @@
+#name{
+    font-size: 60px;
+    color: rgb(21, 238, 14)
+   
+}
+
+.cartoon h2{
+    font-size: 40px;
+}
+.cartoon span{
+    color: #4bf80c;
+}
+.cartoon{
+    margin-left: 30px;
+}
+.cartoon p{
+    font-weight: 600;
+    font-size: 20px;
+}
+.change-thing{
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-image:url(img/tyy.jpg);
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding-bottom: 200px;
+    
+}
+.change-thing img{
+    width:300px;
+    padding-left: 15px;
+    padding-right: 120px;
+    height: 450px;
+
+}
+.change-thing p{
+    padding-right: 140px;
+}
+.theme{
+    text-decoration: none;
+    color: #ffffff;
+    
+  padding: 10px;
+  border-radius: 15px;
+background-image: linear-gradient(rgb(255, 136, 0), red);
+
+  }
+  .spidi{
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-image: url(img/half\ circle.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+  }
+  #bad-spidi{
+    width:300px;
+    padding-left: 15px;
+    padding-right: 120px;
+    height: 450px;
+
+  }
+
