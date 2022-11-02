@@ -62,4 +62,47 @@ background-image: linear-gradient(rgb(255, 136, 0), red);
     height: 450px;
 
   }
+  .mine h1 {
+    font-size: 40px;
+  }
+  .mine{
+    font-size: 30px;
+   
+   
+  }
+  .real h2 {
+    font-size: 40px;
+  }
+  .real{
+    font-size: 40px;
+    border-left: 10px solid;
+    border-image: linear-gradient(orange red);
+    margin-right: 20px;
+    border-color: aqua;
+    padding-left: 20px;
+  }
+  .real p{
+    font-size: 30px;
+  
+  }
+.last{
+  
+     
+       box-shadow: 10px 15px 20px 10px orange;
+       margin-top: 100px;
+     
+}
+  .flexible{
+    display: flex;
+
+   
+   
+  }
+  .yup{
+    background-color: #4bf80c;
+    margin: 5px;
+    
+  }
+
+   
 
